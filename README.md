@@ -2,14 +2,12 @@
 
 This TypeScript module implements the basic logic for the classic **Minesweeper** game. It supports board generation, random mine placement, and ensures that the first click is always safe.
 
----
 
 ## Features
 - Generate a minesweeper board of any size
 
 - Randomized mine placement with first-click safety
 
----
 
 ## How to Install
 ### 1. Clone the Repository
